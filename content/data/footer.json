@@ -61,6 +61,13 @@
     },
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "GitHub link",
+            "url": "https://github.com/Tijani127",
+            "icon": "github",
+            "elementId": ""
+        },
+        {
             "altText": "GitHub link",
             "url": "https://github.com/Tijani127",
             "icon": "github",
