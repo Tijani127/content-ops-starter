@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: '66'
+        price: $97
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
